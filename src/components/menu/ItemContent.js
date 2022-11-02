@@ -20,6 +20,7 @@ export function ItemContent(props) {
         <Icon as={MdUpgrade} color='white' w={8} h={14} />
       </Flex>
       <Flex flexDirection='column'>
+        
         <Text
           mb='5px'
           fontWeight='bold'
